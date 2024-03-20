@@ -1,5 +1,0 @@
-this is version 1 of my project
-i want to go into commit 2
-this is changed now
-hello
-this is from master
